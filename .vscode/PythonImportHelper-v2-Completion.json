@@ -1,0 +1,1529 @@
+[
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Date",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Time",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Absence",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "RoleEnum",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Check",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "CheckCreate",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Taches",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Conge",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "EtatConge",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Retard",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Taches",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "TaskCreate",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "EtatTache",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "RoleEnum",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Admin",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Retard",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Absence",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Conge",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Check",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Taches",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "EmploiDuTemps",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "EtatConge",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "EtatTache",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "UserTache",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Check",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "CheckCreate",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "TaskCreate",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Taches",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "EtatTache",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "database",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "database",
+        "description": "database",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "check",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "tasks",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "leaves",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "absences",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "retards",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigDict",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "enum",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "enum",
+        "description": "enum",
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.alembic.env",
+        "description": "TCXI-master.backend.alembic.env",
+        "peekOfCode": "def run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
+        "detail": "TCXI-master.backend.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.alembic.env",
+        "description": "TCXI-master.backend.alembic.env",
+        "peekOfCode": "def run_migrations_online() -> None:\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    connectable = engine_from_config(\n        config.get_section(config.config_ini_section, {}),\n        prefix=\"sqlalchemy.\",\n        poolclass=pool.NullPool,\n    )",
+        "detail": "TCXI-master.backend.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.alembic.env",
+        "description": "TCXI-master.backend.alembic.env",
+        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata\ntarget_metadata = None",
+        "detail": "TCXI-master.backend.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.alembic.env",
+        "description": "TCXI-master.backend.alembic.env",
+        "peekOfCode": "target_metadata = None\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation",
+        "detail": "TCXI-master.backend.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.absences",
+        "description": "TCXI-master.backend.routers.absences",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n#Ajouter une absence\n@router.post(\"/\")\ndef add_absence(date_absence: date, db: Session = Depends(get_db)):\n    new_absence = Absence(date_absence=date_absence)",
+        "detail": "TCXI-master.backend.routers.absences",
+        "documentation": {}
+    },
+    {
+        "label": "add_absence",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.absences",
+        "description": "TCXI-master.backend.routers.absences",
+        "peekOfCode": "def add_absence(date_absence: date, db: Session = Depends(get_db)):\n    new_absence = Absence(date_absence=date_absence)\n    db.add(new_absence)\n    db.commit()\n    db.refresh(new_absence)\n    return {\"message\": \"Absence added successfully\", \"absence\": new_absence}\n#Récupérer toutes les absences\n@router.get(\"/\")\ndef get_all_absences(db: Session = Depends(get_db)):\n    absences = db.query(Absence).all()",
+        "detail": "TCXI-master.backend.routers.absences",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_absences",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.absences",
+        "description": "TCXI-master.backend.routers.absences",
+        "peekOfCode": "def get_all_absences(db: Session = Depends(get_db)):\n    absences = db.query(Absence).all()\n    return absences\n#Récupérer une absence spécifique par ID\n@router.get(\"/{absence_id}\")\ndef get_absence_by_id(absence_id: int, db: Session = Depends(get_db)):\n    absence = db.query(Absence).filter(Absence.id == absence_id).first()\n    if not absence:\n        raise HTTPException(status_code=404, detail=\"Absence not found\")\n    return absence",
+        "detail": "TCXI-master.backend.routers.absences",
+        "documentation": {}
+    },
+    {
+        "label": "get_absence_by_id",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.absences",
+        "description": "TCXI-master.backend.routers.absences",
+        "peekOfCode": "def get_absence_by_id(absence_id: int, db: Session = Depends(get_db)):\n    absence = db.query(Absence).filter(Absence.id == absence_id).first()\n    if not absence:\n        raise HTTPException(status_code=404, detail=\"Absence not found\")\n    return absence",
+        "detail": "TCXI-master.backend.routers.absences",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.routers.absences",
+        "description": "TCXI-master.backend.routers.absences",
+        "peekOfCode": "router = APIRouter()\nrouter = APIRouter()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n#Ajouter une absence\n@router.post(\"/\")",
+        "detail": "TCXI-master.backend.routers.absences",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.routers.absences",
+        "description": "TCXI-master.backend.routers.absences",
+        "peekOfCode": "router = APIRouter()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n#Ajouter une absence\n@router.post(\"/\")\ndef add_absence(date_absence: date, db: Session = Depends(get_db)):",
+        "detail": "TCXI-master.backend.routers.absences",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.auth",
+        "description": "TCXI-master.backend.routers.auth",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n@router.post(\"/register\")\ndef register_user(user: UserCreate, db: Session = Depends(get_db)):\n    existing_user = db.query(User).filter(User.email == user.email).first()\n    if existing_user:",
+        "detail": "TCXI-master.backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "register_user",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.auth",
+        "description": "TCXI-master.backend.routers.auth",
+        "peekOfCode": "def register_user(user: UserCreate, db: Session = Depends(get_db)):\n    existing_user = db.query(User).filter(User.email == user.email).first()\n    if existing_user:\n        raise HTTPException(status_code=400, detail=\"Email already exists\")\n    hashed_password = pwd_context.hash(user.password)\n    new_user = User(\n        nom=user.nom,\n        prenom=user.prenom,\n        email=user.email,\n        numero=user.numero,",
+        "detail": "TCXI-master.backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login_user",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.auth",
+        "description": "TCXI-master.backend.routers.auth",
+        "peekOfCode": "def login_user(email: str, password: str, db: Session = Depends(get_db)):\n    user = db.query(User).filter(User.email == email).first()\n    if not user or not pwd_context.verify(password, user.password):\n        raise HTTPException(status_code=400, detail=\"Invalid credentials\")\n    return {\"message\": \"Login successful\", \"user_id\": user.id}",
+        "detail": "TCXI-master.backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.routers.auth",
+        "description": "TCXI-master.backend.routers.auth",
+        "peekOfCode": "router = APIRouter()\npwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n@router.post(\"/register\")\ndef register_user(user: UserCreate, db: Session = Depends(get_db)):",
+        "detail": "TCXI-master.backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.routers.auth",
+        "description": "TCXI-master.backend.routers.auth",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n@router.post(\"/register\")\ndef register_user(user: UserCreate, db: Session = Depends(get_db)):\n    existing_user = db.query(User).filter(User.email == user.email).first()",
+        "detail": "TCXI-master.backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.check",
+        "description": "TCXI-master.backend.routers.check",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n@router.post(\"/checkin\")\ndef check_in(check: CheckCreate, db: Session = Depends(get_db)):\n    new_check = Check(\n        date_checkin=check.date_checkin,",
+        "detail": "TCXI-master.backend.routers.check",
+        "documentation": {}
+    },
+    {
+        "label": "check_in",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.check",
+        "description": "TCXI-master.backend.routers.check",
+        "peekOfCode": "def check_in(check: CheckCreate, db: Session = Depends(get_db)):\n    new_check = Check(\n        date_checkin=check.date_checkin,\n        heure_checkin=check.heure_checkin,\n        heure_checkout=check.heure_checkout\n    )\n    db.add(new_check)\n    db.commit()\n    db.refresh(new_check)\n    return {\"message\": \"Check-in successful\"}",
+        "detail": "TCXI-master.backend.routers.check",
+        "documentation": {}
+    },
+    {
+        "label": "check_out",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.check",
+        "description": "TCXI-master.backend.routers.check",
+        "peekOfCode": "def check_out(check_id: int, checkout_time: str, db: Session = Depends(get_db)):\n    check = db.query(Check).filter(Check.id == check_id).first()\n    if not check:\n        raise HTTPException(status_code=404, detail=\"Check-in record not found\")\n    check.heure_checkout = checkout_time\n    db.commit()\n    return {\"message\": \"Check-out successful\"}\n#Récupérer tous les Check-ins\n@router.get(\"/checkins\")\ndef get_all_checkins(db: Session = Depends(get_db)):",
+        "detail": "TCXI-master.backend.routers.check",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_checkins",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.check",
+        "description": "TCXI-master.backend.routers.check",
+        "peekOfCode": "def get_all_checkins(db: Session = Depends(get_db)):\n    checkins = db.query(Check).all()\n    return checkins\n#Récupérer un Check-in par ID\n@router.get(\"/checkin/{check_id}\")\ndef get_checkin_by_id(check_id: int, db: Session = Depends(get_db)):\n    check = db.query(Check).filter(Check.id == check_id).first()\n    if not check:\n        raise HTTPException(status_code=404, detail=\"Check-in record not found\")\n    return check",
+        "detail": "TCXI-master.backend.routers.check",
+        "documentation": {}
+    },
+    {
+        "label": "get_checkin_by_id",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.check",
+        "description": "TCXI-master.backend.routers.check",
+        "peekOfCode": "def get_checkin_by_id(check_id: int, db: Session = Depends(get_db)):\n    check = db.query(Check).filter(Check.id == check_id).first()\n    if not check:\n        raise HTTPException(status_code=404, detail=\"Check-in record not found\")\n    return check",
+        "detail": "TCXI-master.backend.routers.check",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.routers.check",
+        "description": "TCXI-master.backend.routers.check",
+        "peekOfCode": "router = APIRouter()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n@router.post(\"/checkin\")\ndef check_in(check: CheckCreate, db: Session = Depends(get_db)):\n    new_check = Check(",
+        "detail": "TCXI-master.backend.routers.check",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.dashboard",
+        "description": "TCXI-master.backend.routers.dashboard",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n@router.get(\"/stats\")\ndef get_statistics(db: Session = Depends(get_db)):\n    total_users = db.query(User).count()\n    active_tasks = db.query(Taches).filter(Taches.etat_tache == \"encours\").count()",
+        "detail": "TCXI-master.backend.routers.dashboard",
+        "documentation": {}
+    },
+    {
+        "label": "get_statistics",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.dashboard",
+        "description": "TCXI-master.backend.routers.dashboard",
+        "peekOfCode": "def get_statistics(db: Session = Depends(get_db)):\n    total_users = db.query(User).count()\n    active_tasks = db.query(Taches).filter(Taches.etat_tache == \"encours\").count()\n    return {\n        \"total_users\": total_users,\n        \"active_tasks\": active_tasks\n    }\n@router.get(\"/predictions\")\ndef get_predictions():\n    # Implémentation d'un modèle prédictif",
+        "detail": "TCXI-master.backend.routers.dashboard",
+        "documentation": {}
+    },
+    {
+        "label": "get_predictions",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.dashboard",
+        "description": "TCXI-master.backend.routers.dashboard",
+        "peekOfCode": "def get_predictions():\n    # Implémentation d'un modèle prédictif\n    return {\"message\": \"Predictions coming soon\"}",
+        "detail": "TCXI-master.backend.routers.dashboard",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.routers.dashboard",
+        "description": "TCXI-master.backend.routers.dashboard",
+        "peekOfCode": "router = APIRouter()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n@router.get(\"/stats\")\ndef get_statistics(db: Session = Depends(get_db)):\n    total_users = db.query(User).count()",
+        "detail": "TCXI-master.backend.routers.dashboard",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.leaves",
+        "description": "TCXI-master.backend.routers.leaves",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n@router.post(\"/\")\ndef request_leave(cause: str, date_demande: date, date_fin: date, db: Session = Depends(get_db)):\n    new_leave = Conge(\n        cause=cause,",
+        "detail": "TCXI-master.backend.routers.leaves",
+        "documentation": {}
+    },
+    {
+        "label": "request_leave",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.leaves",
+        "description": "TCXI-master.backend.routers.leaves",
+        "peekOfCode": "def request_leave(cause: str, date_demande: date, date_fin: date, db: Session = Depends(get_db)):\n    new_leave = Conge(\n        cause=cause,\n        etat=EtatConge.attente,\n        date_demande=date_demande,\n        date_fin=date_fin\n    )\n    db.add(new_leave)\n    db.commit()\n    db.refresh(new_leave)",
+        "detail": "TCXI-master.backend.routers.leaves",
+        "documentation": {}
+    },
+    {
+        "label": "validate_leave",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.leaves",
+        "description": "TCXI-master.backend.routers.leaves",
+        "peekOfCode": "def validate_leave(leave_id: int, status: EtatConge, db: Session = Depends(get_db)):\n    leave = db.query(Conge).filter(Conge.id == leave_id).first()\n    if not leave:\n        raise HTTPException(status_code=404, detail=\"Leave not found\")\n    leave.etat = status\n    db.commit()\n    return {\"message\": \"Leave status updated\"}",
+        "detail": "TCXI-master.backend.routers.leaves",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.routers.leaves",
+        "description": "TCXI-master.backend.routers.leaves",
+        "peekOfCode": "router = APIRouter()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n@router.post(\"/\")\ndef request_leave(cause: str, date_demande: date, date_fin: date, db: Session = Depends(get_db)):\n    new_leave = Conge(",
+        "detail": "TCXI-master.backend.routers.leaves",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.retards",
+        "description": "TCXI-master.backend.routers.retards",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n#Ajouter un retard\n@router.post(\"/\")\ndef add_retard(date_retard: date, heure_retard: time, db: Session = Depends(get_db)):\n    new_retard = Retard(date_retard=date_retard, heure_retard=heure_retard)",
+        "detail": "TCXI-master.backend.routers.retards",
+        "documentation": {}
+    },
+    {
+        "label": "add_retard",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.retards",
+        "description": "TCXI-master.backend.routers.retards",
+        "peekOfCode": "def add_retard(date_retard: date, heure_retard: time, db: Session = Depends(get_db)):\n    new_retard = Retard(date_retard=date_retard, heure_retard=heure_retard)\n    db.add(new_retard)\n    db.commit()\n    db.refresh(new_retard)\n    return {\"message\": \"Retard added successfully\", \"retard\": new_retard}\n#Récupérer tous les retards\n@router.get(\"/\")\ndef get_all_retards(db: Session = Depends(get_db)):\n    retards = db.query(Retard).all()",
+        "detail": "TCXI-master.backend.routers.retards",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_retards",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.retards",
+        "description": "TCXI-master.backend.routers.retards",
+        "peekOfCode": "def get_all_retards(db: Session = Depends(get_db)):\n    retards = db.query(Retard).all()\n    return retards\n#Récupérer un retard spécifique par ID\n@router.get(\"/{retard_id}\")\ndef get_retard_by_id(retard_id: int, db: Session = Depends(get_db)):\n    retard = db.query(Retard).filter(Retard.id == retard_id).first()\n    if not retard:\n        raise HTTPException(status_code=404, detail=\"Retard not found\")\n    return retard",
+        "detail": "TCXI-master.backend.routers.retards",
+        "documentation": {}
+    },
+    {
+        "label": "get_retard_by_id",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.retards",
+        "description": "TCXI-master.backend.routers.retards",
+        "peekOfCode": "def get_retard_by_id(retard_id: int, db: Session = Depends(get_db)):\n    retard = db.query(Retard).filter(Retard.id == retard_id).first()\n    if not retard:\n        raise HTTPException(status_code=404, detail=\"Retard not found\")\n    return retard",
+        "detail": "TCXI-master.backend.routers.retards",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.routers.retards",
+        "description": "TCXI-master.backend.routers.retards",
+        "peekOfCode": "router = APIRouter()\nrouter = APIRouter()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n#Ajouter un retard\n@router.post(\"/\")",
+        "detail": "TCXI-master.backend.routers.retards",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.routers.retards",
+        "description": "TCXI-master.backend.routers.retards",
+        "peekOfCode": "router = APIRouter()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n#Ajouter un retard\n@router.post(\"/\")\ndef add_retard(date_retard: date, heure_retard: time, db: Session = Depends(get_db)):",
+        "detail": "TCXI-master.backend.routers.retards",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.tasks",
+        "description": "TCXI-master.backend.routers.tasks",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n@router.post(\"/\")\ndef create_task(task: TaskCreate, db: Session = Depends(get_db)):\n    new_task = Taches(\n        date_aff=task.date_aff,",
+        "detail": "TCXI-master.backend.routers.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "create_task",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.tasks",
+        "description": "TCXI-master.backend.routers.tasks",
+        "peekOfCode": "def create_task(task: TaskCreate, db: Session = Depends(get_db)):\n    new_task = Taches(\n        date_aff=task.date_aff,\n        etat_tache=task.etat_tache,\n        task_content=task.task_content\n    )\n    db.add(new_task)\n    db.commit()\n    db.refresh(new_task)\n    # Lier les utilisateurs à cette tâche",
+        "detail": "TCXI-master.backend.routers.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "update_task_status",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.tasks",
+        "description": "TCXI-master.backend.routers.tasks",
+        "peekOfCode": "def update_task_status(task_id: int, status: EtatTache, db: Session = Depends(get_db)):\n    task = db.query(Taches).filter(Taches.id == task_id).first()\n    if not task:\n        raise HTTPException(status_code=404, detail=\"Task not found\")\n    task.etat_tache = status\n    db.commit()\n    return {\"message\": \"Task status updated successfully\"}\n#Récupérer toutes les tâches\n@router.get(\"/\")\ndef get_all_tasks(db: Session = Depends(get_db)):",
+        "detail": "TCXI-master.backend.routers.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_tasks",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.tasks",
+        "description": "TCXI-master.backend.routers.tasks",
+        "peekOfCode": "def get_all_tasks(db: Session = Depends(get_db)):\n    tasks = db.query(Taches).all()\n    return tasks\n#Récupérer une tâche par ID\n@router.get(\"/{task_id}\")\ndef get_task_by_id(task_id: int, db: Session = Depends(get_db)):\n    task = db.query(Taches).filter(Taches.id == task_id).first()\n    if not task:\n        raise HTTPException(status_code=404, detail=\"Task not found\")\n    return task",
+        "detail": "TCXI-master.backend.routers.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "get_task_by_id",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.routers.tasks",
+        "description": "TCXI-master.backend.routers.tasks",
+        "peekOfCode": "def get_task_by_id(task_id: int, db: Session = Depends(get_db)):\n    task = db.query(Taches).filter(Taches.id == task_id).first()\n    if not task:\n        raise HTTPException(status_code=404, detail=\"Task not found\")\n    return task",
+        "detail": "TCXI-master.backend.routers.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.routers.tasks",
+        "description": "TCXI-master.backend.routers.tasks",
+        "peekOfCode": "router = APIRouter()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n@router.post(\"/\")\ndef create_task(task: TaskCreate, db: Session = Depends(get_db)):\n    new_task = Taches(",
+        "detail": "TCXI-master.backend.routers.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "create_tables",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.creer_tables",
+        "description": "TCXI-master.backend.creer_tables",
+        "peekOfCode": "def create_tables():\n    Base.metadata.create_all(bind=engine)\n    print(\"Tables créées avec succès !\")\nif __name__ == \"__main__\":\n    create_tables()",
+        "detail": "TCXI-master.backend.creer_tables",
+        "documentation": {}
+    },
+    {
+        "label": "DB_HOST",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.database",
+        "description": "TCXI-master.backend.database",
+        "peekOfCode": "DB_HOST = os.getenv(\"DB_HOST\", \"localhost\")\nDB_PORT = os.getenv(\"DB_PORT\", \"3306\")\nDB_NAME = os.getenv(\"DB_NAME\", \"tc_11_team6\")\nDB_USER = os.getenv(\"DB_USER\", \"root\")\nDB_PASSWORD = os.getenv(\"DB_PASSWORD\", \"1234567890\")\n# URL de connexion MySQL\nDATABASE_URL = f\"mysql+mysqlconnector://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# Création de l'engine de base de données\nengine = create_engine(DATABASE_URL, pool_size=5, max_overflow=10)\n# Session locale",
+        "detail": "TCXI-master.backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PORT",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.database",
+        "description": "TCXI-master.backend.database",
+        "peekOfCode": "DB_PORT = os.getenv(\"DB_PORT\", \"3306\")\nDB_NAME = os.getenv(\"DB_NAME\", \"tc_11_team6\")\nDB_USER = os.getenv(\"DB_USER\", \"root\")\nDB_PASSWORD = os.getenv(\"DB_PASSWORD\", \"1234567890\")\n# URL de connexion MySQL\nDATABASE_URL = f\"mysql+mysqlconnector://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# Création de l'engine de base de données\nengine = create_engine(DATABASE_URL, pool_size=5, max_overflow=10)\n# Session locale\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)",
+        "detail": "TCXI-master.backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "DB_NAME",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.database",
+        "description": "TCXI-master.backend.database",
+        "peekOfCode": "DB_NAME = os.getenv(\"DB_NAME\", \"tc_11_team6\")\nDB_USER = os.getenv(\"DB_USER\", \"root\")\nDB_PASSWORD = os.getenv(\"DB_PASSWORD\", \"1234567890\")\n# URL de connexion MySQL\nDATABASE_URL = f\"mysql+mysqlconnector://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# Création de l'engine de base de données\nengine = create_engine(DATABASE_URL, pool_size=5, max_overflow=10)\n# Session locale\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Base pour les modèles",
+        "detail": "TCXI-master.backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "DB_USER",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.database",
+        "description": "TCXI-master.backend.database",
+        "peekOfCode": "DB_USER = os.getenv(\"DB_USER\", \"root\")\nDB_PASSWORD = os.getenv(\"DB_PASSWORD\", \"1234567890\")\n# URL de connexion MySQL\nDATABASE_URL = f\"mysql+mysqlconnector://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# Création de l'engine de base de données\nengine = create_engine(DATABASE_URL, pool_size=5, max_overflow=10)\n# Session locale\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Base pour les modèles\nBase = declarative_base()",
+        "detail": "TCXI-master.backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PASSWORD",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.database",
+        "description": "TCXI-master.backend.database",
+        "peekOfCode": "DB_PASSWORD = os.getenv(\"DB_PASSWORD\", \"1234567890\")\n# URL de connexion MySQL\nDATABASE_URL = f\"mysql+mysqlconnector://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# Création de l'engine de base de données\nengine = create_engine(DATABASE_URL, pool_size=5, max_overflow=10)\n# Session locale\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Base pour les modèles\nBase = declarative_base()",
+        "detail": "TCXI-master.backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.database",
+        "description": "TCXI-master.backend.database",
+        "peekOfCode": "DATABASE_URL = f\"mysql+mysqlconnector://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# Création de l'engine de base de données\nengine = create_engine(DATABASE_URL, pool_size=5, max_overflow=10)\n# Session locale\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Base pour les modèles\nBase = declarative_base()",
+        "detail": "TCXI-master.backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.database",
+        "description": "TCXI-master.backend.database",
+        "peekOfCode": "engine = create_engine(DATABASE_URL, pool_size=5, max_overflow=10)\n# Session locale\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Base pour les modèles\nBase = declarative_base()",
+        "detail": "TCXI-master.backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.database",
+        "description": "TCXI-master.backend.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Base pour les modèles\nBase = declarative_base()",
+        "detail": "TCXI-master.backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.database",
+        "description": "TCXI-master.backend.database",
+        "peekOfCode": "Base = declarative_base()",
+        "detail": "TCXI-master.backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "TCXI-master.backend.main",
+        "description": "TCXI-master.backend.main",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\napp.include_router(auth.router, prefix=\"/auth\", tags=[\"Authentification\"])\napp.include_router(check.router, prefix=\"/check\", tags=[\"Check-in/Check-out\"])\napp.include_router(tasks.router, prefix=\"/tasks\", tags=[\"Gestion des Tâches\"])\napp.include_router(leaves.router, prefix=\"/leaves\", tags=[\"Gestion des Congés\"])",
+        "detail": "TCXI-master.backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "TCXI-master.backend.main",
+        "description": "TCXI-master.backend.main",
+        "peekOfCode": "app = FastAPI()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\napp.include_router(auth.router, prefix=\"/auth\", tags=[\"Authentification\"])\napp.include_router(check.router, prefix=\"/check\", tags=[\"Check-in/Check-out\"])\napp.include_router(tasks.router, prefix=\"/tasks\", tags=[\"Gestion des Tâches\"])",
+        "detail": "TCXI-master.backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "EtatTache",
+        "kind": 6,
+        "importPath": "TCXI-master.backend.models",
+        "description": "TCXI-master.backend.models",
+        "peekOfCode": "class EtatTache(enum.Enum):\n    terminé = \"terminé\"\n    attente = \"attente\"\n    encours = \"encours\"\nclass EtatConge(enum.Enum):\n    accepté = \"accepté\"\n    attente = \"attente\"\n    refusé = \"refusé\"\nclass RoleEnum(enum.Enum):\n    admin = \"admin\"",
+        "detail": "TCXI-master.backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "EtatConge",
+        "kind": 6,
+        "importPath": "TCXI-master.backend.models",
+        "description": "TCXI-master.backend.models",
+        "peekOfCode": "class EtatConge(enum.Enum):\n    accepté = \"accepté\"\n    attente = \"attente\"\n    refusé = \"refusé\"\nclass RoleEnum(enum.Enum):\n    admin = \"admin\"\n    user = \"user\"\n    guest = \"guest\"\nclass UserCreate(BaseModel):\n    nom: str",
+        "detail": "TCXI-master.backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "RoleEnum",
+        "kind": 6,
+        "importPath": "TCXI-master.backend.models",
+        "description": "TCXI-master.backend.models",
+        "peekOfCode": "class RoleEnum(enum.Enum):\n    admin = \"admin\"\n    user = \"user\"\n    guest = \"guest\"\nclass UserCreate(BaseModel):\n    nom: str\n    prenom: str\n    email: str\n    numero: str\n    role: RoleEnum",
+        "detail": "TCXI-master.backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "TCXI-master.backend.models",
+        "description": "TCXI-master.backend.models",
+        "peekOfCode": "class UserCreate(BaseModel):\n    nom: str\n    prenom: str\n    email: str\n    numero: str\n    role: RoleEnum\n    password: str\n    nb_presence: int\n    nb_absence: int\n    nb_retard: int",
+        "detail": "TCXI-master.backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserTache",
+        "kind": 6,
+        "importPath": "TCXI-master.backend.models",
+        "description": "TCXI-master.backend.models",
+        "peekOfCode": "class UserTache(Base):\n    __tablename__ = \"user_tache\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    user_id = Column(Integer, ForeignKey('users.id'), nullable=False)\n    tache_id = Column(Integer, ForeignKey('taches.id'), nullable=False)\n# SQLAlchemy Model for User\nclass User(Base):\n    __tablename__ = 'users'\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    nom = Column(String(50), nullable=False)",
+        "detail": "TCXI-master.backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "TCXI-master.backend.models",
+        "description": "TCXI-master.backend.models",
+        "peekOfCode": "class User(Base):\n    __tablename__ = 'users'\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    nom = Column(String(50), nullable=False)\n    prenom = Column(String(50), nullable=False)\n    email = Column(String(100), unique=True, nullable=False)\n    numero = Column(String(20), nullable=False)\n    role = Column(Enum(RoleEnum), nullable=False)\n    password = Column(String(255), nullable=False)\n    nb_presence = Column(Integer, default=0)",
+        "detail": "TCXI-master.backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "Admin",
+        "kind": 6,
+        "importPath": "TCXI-master.backend.models",
+        "description": "TCXI-master.backend.models",
+        "peekOfCode": "class Admin(Base):\n    __tablename__ = \"admin\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    nom = Column(String(50), nullable=False)\n    prenom = Column(String(50), nullable=False)\n    email = Column(String(100), unique=True, nullable=False)\n    numero = Column(String(20), nullable=False)\n    password = Column(String(255), nullable=False)  # Adjusted size of password\nclass Conge(Base):\n    __tablename__ = \"conge\"",
+        "detail": "TCXI-master.backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "Conge",
+        "kind": 6,
+        "importPath": "TCXI-master.backend.models",
+        "description": "TCXI-master.backend.models",
+        "peekOfCode": "class Conge(Base):\n    __tablename__ = \"conge\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    cause = Column(String(200), unique=True, nullable=False)\n    etat = Column(Enum(EtatConge), nullable=False)\n    date_demande = Column(Date, nullable=False)\n    date_fin = Column(Date, nullable=False)\nclass Retard(Base):\n    __tablename__ = \"retard\"\n    id = Column(Integer, primary_key=True, autoincrement=True)",
+        "detail": "TCXI-master.backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "Retard",
+        "kind": 6,
+        "importPath": "TCXI-master.backend.models",
+        "description": "TCXI-master.backend.models",
+        "peekOfCode": "class Retard(Base):\n    __tablename__ = \"retard\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    date_retard = Column(Date, nullable=False)\n    heure_retard = Column(Time, nullable=False)\nclass Absence(Base):\n    __tablename__ = \"absence\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    date_absence = Column(Date, nullable=False)\nclass EmploiDuTemps(Base):",
+        "detail": "TCXI-master.backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "Absence",
+        "kind": 6,
+        "importPath": "TCXI-master.backend.models",
+        "description": "TCXI-master.backend.models",
+        "peekOfCode": "class Absence(Base):\n    __tablename__ = \"absence\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    date_absence = Column(Date, nullable=False)\nclass EmploiDuTemps(Base):\n    __tablename__ = \"edt\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    date_travail = Column(Date, nullable=False)\n    heure_debut = Column(Time, nullable=False)\n    heure_fin = Column(Time, nullable=False)",
+        "detail": "TCXI-master.backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "EmploiDuTemps",
+        "kind": 6,
+        "importPath": "TCXI-master.backend.models",
+        "description": "TCXI-master.backend.models",
+        "peekOfCode": "class EmploiDuTemps(Base):\n    __tablename__ = \"edt\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    date_travail = Column(Date, nullable=False)\n    heure_debut = Column(Time, nullable=False)\n    heure_fin = Column(Time, nullable=False)\nclass TaskCreate(BaseModel):\n    user_ids: List[int]\n    date_aff: date\n    etat_tache: EtatTache",
+        "detail": "TCXI-master.backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "TaskCreate",
+        "kind": 6,
+        "importPath": "TCXI-master.backend.models",
+        "description": "TCXI-master.backend.models",
+        "peekOfCode": "class TaskCreate(BaseModel):\n    user_ids: List[int]\n    date_aff: date\n    etat_tache: EtatTache\n    task_content: str\n    model_config = ConfigDict(arbitrary_types_allowed=True)\nclass Taches(Base):\n    __tablename__ = \"taches\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    date_aff = Column(Date, nullable=False)",
+        "detail": "TCXI-master.backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "Taches",
+        "kind": 6,
+        "importPath": "TCXI-master.backend.models",
+        "description": "TCXI-master.backend.models",
+        "peekOfCode": "class Taches(Base):\n    __tablename__ = \"taches\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    date_aff = Column(Date, nullable=False)\n    etat_tache = Column(Enum(EtatTache), nullable=False)\n    task_content = Column(String(255), nullable=False)\n    # Relationship with the 'users' table\n    users = relationship(\"User\", secondary=UserTache, back_populates=\"taches\")\nclass CheckCreate(BaseModel):\n    date_checkin: date",
+        "detail": "TCXI-master.backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "CheckCreate",
+        "kind": 6,
+        "importPath": "TCXI-master.backend.models",
+        "description": "TCXI-master.backend.models",
+        "peekOfCode": "class CheckCreate(BaseModel):\n    date_checkin: date\n    heure_checkin: time\n    heure_checkout: time\n    model_config = ConfigDict(arbitrary_types_allowed=True)\nclass Check(Base):\n    __tablename__ = \"check\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    date_checkin = Column(Date, nullable=False)\n    heure_checkin = Column(Time, nullable=False)",
+        "detail": "TCXI-master.backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "Check",
+        "kind": 6,
+        "importPath": "TCXI-master.backend.models",
+        "description": "TCXI-master.backend.models",
+        "peekOfCode": "class Check(Base):\n    __tablename__ = \"check\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    date_checkin = Column(Date, nullable=False)\n    heure_checkin = Column(Time, nullable=False)\n    heure_checkout = Column(Time, nullable=False)",
+        "detail": "TCXI-master.backend.models",
+        "documentation": {}
+    }
+]
